@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local documents and generated output
+input/*.pdf
+input/*.PDF
+!input/.gitkeep
+merged.pdf
+.*.tmp.pdf
