@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Windows-Terminal-0078D4?logo=windows&logoColor=white)
 ![Style](https://img.shields.io/badge/UI-Rich-13B5EA)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
@@ -34,6 +35,7 @@ pdf-name-merger/
 ├── merge_pdfs.py
 ├── requirements.txt
 ├── README.md
+├── LICENSE
 └── .gitignore
 ```
 
@@ -180,6 +182,10 @@ Install everything with:
 ```powershell
 python -m pip install -r requirements.txt
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
 
 ---
 
