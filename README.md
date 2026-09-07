@@ -155,6 +155,10 @@ python merge_pdfs.py --help
    table, progress bar, and status panels.
 5. The completed document is atomically moved into its final location.
 
+## Usage
+
+Run the application locally to merge PDF files.
+
 ## Notes and troubleshooting
 
 - **No files found:** confirm the PDFs are directly inside `input/`, not in a
