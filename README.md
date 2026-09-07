@@ -155,10 +155,6 @@ python merge_pdfs.py --help
    table, progress bar, and status panels.
 5. The completed document is atomically moved into its final location.
 
-## Usage
-
-Run the application locally to merge PDF files.
-
 ## Notes and troubleshooting
 
 - **No files found:** confirm the PDFs are directly inside `input/`, not in a
@@ -174,6 +170,10 @@ Run the application locally to merge PDF files.
 
 The app runs locally. It does not upload your documents or require an internet
 connection after the dependencies have been installed.
+
+## Usage
+
+This project provides a simple way to merge PDF files locally.
 
 ## Requirements
 
