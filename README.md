@@ -175,6 +175,10 @@ connection after the dependencies have been installed.
 
 This project provides a simple way to merge PDF files locally.
 
+## Project Status
+
+Actively maintained and developed.
+
 ## Requirements
 
 - Python 3.10+
