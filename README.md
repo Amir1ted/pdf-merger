@@ -179,6 +179,10 @@ This project provides a simple way to merge PDF files locally.
 
 Actively maintained and developed.
 
+## Contributing
+
+Contributions and improvements are welcome.
+
 ## Requirements
 
 - Python 3.10+
